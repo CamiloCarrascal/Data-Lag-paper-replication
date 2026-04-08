@@ -54,3 +54,12 @@ The repository is designed to ensure transparency and reproducibility while main
 
 Camilo Andrés Carrascal Vergel  
 Ph.D. Candidate – Universidad de los Andes
+
+## Contact and Contributions
+
+For any inquiries, clarifications, or potential contributions related to this repository, please contact:
+
+Camilo Andrés Carrascal Vergel  
+Email: ca.carrascal7458@uniandes.edu.co  
+
+Feedback, suggestions, and extensions that contribute to improving the transparency, robustness, or scope of the analysis are highly encouraged.
